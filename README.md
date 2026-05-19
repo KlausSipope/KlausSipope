@@ -73,6 +73,10 @@ My path is a bit unconventional: I trained as a software engineer, shifted into 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KlausSipope&theme=xcode&hide_border=true"/>
 </p>
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ---
 
 ### How to reach me 📬
